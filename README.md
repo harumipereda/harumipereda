@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center"> ¡Hola! Bienvenid@, soy Harumi 👋 </h1>
 
-<!--
-**harumipereda/harumipereda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1400" height="349" alt="Portada" src="https://github.com/user-attachments/assets/2437f736-1013-4e05-b1ad-8ec1de80eb9d" />
 
-Here are some ideas to get you started:
+Ingeniera de sistema colegiada con experiencia en análisis y pruebas funcionales de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy fortaleciendo mis conocimientos en Inteligencia Artificial, Agentes IA y automatización, desarrollando proyectos prácticos y construyendo un portafolio orientado a la innovación y la mejora de procesos.
+
+## 🚀 Enfoque actual
+
+- Inteligencia Artificial y Agentes IA
+- Automatización de pruebas
+- Python
+- Selenium
+- Gestión de proyectos
+
+## 🛠️ Tecnologías y herramientas
+
+- Python
+- Selenium
+- Git y GitHub
+- SQL
+- Jira
+- Scrum
+- n8n
+
+## 📂 Proyectos destacados
+
+- Automatización de login con Selenium y generación de reportes
+- Proyectos de aprendizaje en Inteligencia Artificial
+
+## 🌱 Actualmente aprendiendo
+
+- IA generativa
+- Ingeniería de agentes
+
+## 🏅 Certificaciones
+
+- CAPM®
+- Scrum
+- OKR
+
+## 🌎 Idiomas
+
+- Español: nativo
+- Inglés: intermedio
+- Portugués: básico
+
+## 📫 Conectemos
+
+- LinkedIn: [https://www.linkedin.com/in/harumi-pereda-pascal/]
